@@ -9,7 +9,6 @@ Calculate distance between cities and find cities by radius
 * Java 8
 * Docker
 * IntelliJ Community
-* Heroku CLI
 * Travis CLI
 
 ## DataBase
@@ -114,10 +113,6 @@ AND earth_distance(ll_to_earth(-21.95840072631836, -47.98820114135742), ll_to_ea
 * [JsonTypes](https://github.com/vladmihalcea/hibernate-types)
 * [UserType](https://docs.jboss.org/hibernate/orm/3.5/api/org/hibernate/usertype/UserType.html)
 
-## Heroku
-
-* [DevCenter](https://devcenter.heroku.com/articles/getting-started-with-gradle-on-heroku)
-
 ```shell script
 heroku create dio-cities-api --addons=heroku-postgresql
 ```
@@ -161,4 +156,9 @@ wget https://raw.githubusercontent.com/checkstyle/checkstyle/master/src/main/res
 + https://docs.travis-ci.com/user/conditional-builds-stages-jobs/
 + https://docs.travis-ci.com/user/deployment-v2/conditional
 
-+ [Heroku Deployment](https://docs.travis-ci.com/user/deployment/heroku/)
+
+### UPDATE INFO: Removed info about Heroku, because it's not anymore a free tool.
+
+
+### CONTACT ME
+[LinkedIn](https://www.linkedin.com/in/joabdeferreira/) | [GitHub](https://github.com/joabdeferreira) | e-Mail: joabdeferreira@gmail.com
